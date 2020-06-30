@@ -10,14 +10,14 @@ draft: true
 <!-- LeetCode month and day here -->
 ##
 
-<!-- Question name here -->
-## 
+## Problem Statement
 
-## IOCE
-- Inputs: 
-- Outputs: 
-- Constraints: 
-- Exceptions: 
+## Inputs, Outputs, Constraints & Exceptions
+- **I**: 
+- **O**: 
+- **C**: 
+- **E**: 
+
 
 ## Code
 
@@ -25,5 +25,5 @@ draft: true
 
 ```
 
-**_Time complexity_**: 
+**_Time complexity_**:  \
 **_Space complexity_**:
