@@ -1,0 +1,3 @@
+[submodule "themes/daily-coding-challenges-theme"]
+	path = themes/daily-coding-challenges-theme
+	url = git@github.com:Vhaos/daily-coding-challenges-theme.git
