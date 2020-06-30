@@ -21,6 +21,8 @@ url = "/tags"
 weight = 2
 
 [markup]
+  [markup.highlight]
+    style = "monokailight"
   [markup.tableOfContents]
     endLevel = 4
     ordered = false
@@ -31,6 +33,7 @@ weight = 2
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  mathjax = true # enable mathjax support
 
   # Home page settings
   description = "This site hosts some of my solutions to various LeetCode problems, including the hugely popular '[Monthly LeetCoding Challenges](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)'. I've created this to serve as a visual archive of my progress through solving coding problems. Most solutions here are written primarily in _JavaScript_, however there are also number of solutions in _Java_ and _Python_. You can find the full list of solutions [here](/leetcodedaily)."
