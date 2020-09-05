@@ -1,16 +1,18 @@
 ---
 title: "{{trim (replace .Name "-" " ") "0123456789 " | title}}"
-date: {{ .Date }}
+date: 2020-09-01T01:00:52+01:00
 author: Kareem
 tags:
-  - ""
+  - 
 draft: true
 ---
 
 <!-- LeetCode month and day here -->
-##
+# LeetCode September - Day 
 
 ## Problem Statement
+
+
 
 ## Inputs, Outputs, Constraints & Exceptions
 - **I**: 
