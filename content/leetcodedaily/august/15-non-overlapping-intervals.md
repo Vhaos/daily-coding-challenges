@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - Array
   - Greedy
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

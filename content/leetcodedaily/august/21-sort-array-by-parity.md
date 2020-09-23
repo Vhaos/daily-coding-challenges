@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - Array
   - Two Pointers
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

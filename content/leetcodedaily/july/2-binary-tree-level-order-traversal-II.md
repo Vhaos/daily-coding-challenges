@@ -4,7 +4,6 @@ date: 2020-07-02T00:45:20+01:00
 author: Kareem
 tags:
   - "Binary Tree"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

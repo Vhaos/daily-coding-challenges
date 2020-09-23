@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - "Linked List"
   - "Queue"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - Array
   - Sort
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

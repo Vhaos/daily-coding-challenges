@@ -6,7 +6,6 @@ tags:
   - "Array"
   - "Greedy"
   - "Queue"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

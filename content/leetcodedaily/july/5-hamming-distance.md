@@ -3,8 +3,7 @@ title: "Hamming Distance"
 date: 2020-07-05T01:00:52+01:00
 author: Kareem
 tags:
-  - ""
-draft: true
+  - "Bit Manipulation"
 ---
 
 <!-- LeetCode month and day here -->
@@ -37,7 +36,7 @@ The above arrows point to positions where the corresponding bits are different.
 
 ## PseudoCode
 
-```
+```js
 hammingDistance(x ,y):
   initialise var for count
   calculate x ^ y and set to val

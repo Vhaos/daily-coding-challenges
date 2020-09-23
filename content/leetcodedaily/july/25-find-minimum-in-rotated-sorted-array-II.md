@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - "Array"
   - "Binary Search"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

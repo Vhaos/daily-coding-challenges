@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - Binary Tree
   - Inorder Traversal
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

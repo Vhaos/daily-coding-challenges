@@ -3,8 +3,8 @@ title: "3Sum"
 date: 2020-07-08T01:00:52+01:00
 author: Kareem
 tags:
-  - ""
-draft: true
+  - Sort
+  - Two Pointers
 ---
 
 <!-- LeetCode month and day here -->

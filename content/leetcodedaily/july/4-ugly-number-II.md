@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - "Math"
   - "Dynammic Programming"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->

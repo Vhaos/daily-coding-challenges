@@ -5,7 +5,6 @@ author: Kareem
 tags:
   - "Queue"
   - "Binary Tree"
-draft: true
 ---
 
 <!-- LeetCode month and day here -->
