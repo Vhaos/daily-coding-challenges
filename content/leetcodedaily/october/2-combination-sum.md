@@ -7,7 +7,7 @@ tags:
 ---
 
 <!-- LeetCode month and day here -->
-# LeetCode October - Day 
+# LeetCode October - Day 2
 
 ## Problem Statement
 
